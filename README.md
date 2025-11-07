@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Automation tools (n8n etc)
 - 👯 I’m looking to collaborate on Machine Learning, Data Engineering, GenAI
 
-![Static Badge](https://img.shields.io/badge/AWS-Machine%20Learning-black,![Static Badge](https://img.shields.io/badge/AWS-Data%20Engineering-black)
+![Static Badge](https://img.shields.io/badge/AWS-Machine%20Learning-black)
+![Static Badge](https://img.shields.io/badge/AWS-Data%20Engineering-black)
 
 
