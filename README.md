@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Interview Edge, An AI powered job candidate chooser
-- 🌱 I’m currently learning Automation tools (n8n etc)
+- 🔭 I’m currently working on Robots with wallets
+- 🌱 I’m currently learning AI Development Skills
 - 👯 I’m looking to collaborate on Machine Learning, Data Engineering, GenAI
 
 ![Static Badge](https://img.shields.io/badge/AWS-Machine%20Learning-black)
