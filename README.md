@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Robots with wallets
+- 🔭 I’m currently working on ONA-Platform
 - 🌱 I’m currently learning AI Development Skills
 - 👯 I’m looking to collaborate on Machine Learning, Data Engineering, GenAI
 
