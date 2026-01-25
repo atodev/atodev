@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Bad-Weather-and-incidents
+- 🔭 I’m currently working on NZ Extreme Weather & Incidents
 - 🌱 trying my hand at solo dev - and mini SaaS
 - 👯 I’m looking to collaborate on Machine Learning, Data Engineering, GenAI
 
