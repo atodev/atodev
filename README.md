@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ONA-Platform
-- 🌱 I’m currently learning AI Development Skills
+- 🔭 I’m currently working on Bad-Weather-and-incidents
+- 🌱 trying my hand at solo dev - and mini SaaS
 - 👯 I’m looking to collaborate on Machine Learning, Data Engineering, GenAI
 
 ![Static Badge](https://img.shields.io/badge/AWS-Machine%20Learning-black)
