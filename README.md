@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on NZ Extreme Weather & Incidents
+- 🔭 I’m currently working on InterView-Edge
 - 🌱              solo dev - and mini SaaS
 - 👯 I’m looking to collaborate on Machine Learning, Data Engineering, GenAI
 
