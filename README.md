@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on InterView-Edge
+- 🔭 I’m currently working on Herdlink
 - 🌱              solo dev - and mini SaaS
 - 👯 I’m looking to collaborate on Machine Learning, Data Engineering, GenAI
 
